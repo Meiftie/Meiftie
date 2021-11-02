@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meiftie
-- 👀 I’m interested in working in GitHub
-- 🌱 I’m currently learning CSS and HTML
+- 👀 I’m interested in working in GitHub and illustration.
+- 🌱 I’m currently learning Figma, Unity,CSS and HTML.
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me :thasilverling@gmail.com
 
