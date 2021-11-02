@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meiftie
+- 👋 Hi, I’m @Katerina Mymrykova
 - 👀 I’m interested in working in GitHub and illustration.
 - 🌱 I’m currently learning Figma, Unity,CSS and HTML.
 - 💞️ I’m looking to collaborate on new projects
